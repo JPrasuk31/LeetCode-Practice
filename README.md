@@ -1,2 +1,2 @@
 # LeetCode-Practice
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+This is my repository of the practice questions I do on Leetcode.
